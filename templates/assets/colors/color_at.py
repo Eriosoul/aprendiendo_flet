@@ -1,3 +1,3 @@
 class ColorAT:
-    BG = '#A4A4A4'
+    BG = '#242424'
     TC = '#FFFFFF'
